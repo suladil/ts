@@ -17,7 +17,7 @@
   --background-color: white;
   --light-color: #eee;
   --dark-color: #ccc;
-  --text-color: black;
+  --text-color: black, #00539b;;
 
   /* fonts */
   --body-font-family: roboto, roboto-fallback;
@@ -77,11 +77,7 @@ header {
   height: var(--nav-height);
 }
 
-h1 {
-  letter-spacing: .35px;
-    font-weight: 700;
-    font-family: 'helvetica-condensed-bold', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-    color: #00539b;,
+h1,
 h2,
 h3,
 h4,
