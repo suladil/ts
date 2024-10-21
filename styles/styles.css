@@ -77,7 +77,11 @@ header {
   height: var(--nav-height);
 }
 
-h1,
+h1 {
+  letter-spacing: .35px;
+    font-weight: 700;
+    font-family: 'helvetica-condensed-bold', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    color: #00539b;,
 h2,
 h3,
 h4,
