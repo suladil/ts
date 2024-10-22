@@ -91,6 +91,10 @@ h6 {
   scroll-margin: calc(var(--nav-height) + 1em);
 }
 
+h2 {
+    color: #00539b;
+}
+
 h1 { font-size: var(--heading-font-size-xxl); }
 h2 { font-size: var(--heading-font-size-xl); }
 h3 { font-size: var(--heading-font-size-l); }
